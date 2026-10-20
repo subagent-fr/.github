@@ -1,3 +1,7 @@
+> **This repository has moved to [escouade-io](https://github.com/escouade-io).** Subagent is now Escouade Mail; this repository is archived.
+>
+> **Ce dépôt est devenu [escouade-io](https://github.com/escouade-io).** Subagent devient Escouade Mail ; ce dépôt est archivé.
+
 # Subagent
 
 L'e-mail pour agents IA.
